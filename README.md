@@ -1,5 +1,3 @@
-# m365-security-dashboard
-A Microsoft 365 security monitoring dashboard built with React, TypeScript, ASP.NET Core, and Microsoft Graph API.
 # M365 Security Dashboard
 
 A self-hosted, real-time Microsoft 365 security monitoring dashboard that aggregates alerts from Defender XDR, Entra ID Protection, Intune, Exchange Online, Compliance, and more all in one place.
